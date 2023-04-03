@@ -1,6 +1,6 @@
 # XpGainer
 
-	XpGainer is an open-source project aimed at helping users track and gain experience points (XP) across multiple platforms and activities. This versatile tool caters to gamers, developers, and learners alike, allowing them to set goals, monitor progress, and visualize achievements in a clear and concise manner while getting the satisfaction of levelling up and making it easier to track tasks.
+XpGainer is an open-source project aimed at helping users track and gain experience points (XP) across multiple platforms and activities. This versatile tool caters to gamers, developers, and learners alike, allowing them to set goals, monitor progress, and visualize achievements in a clear and concise manner while getting the satisfaction of levelling up and making it easier to track tasks.
   
 ## Features
 
